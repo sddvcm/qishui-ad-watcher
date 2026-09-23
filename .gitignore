@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+debug_screenshots/
+*.log
+gui_config.json
+dist/
+build/
+*.spec
+dist.zip
+.uploads/
+.venv/
